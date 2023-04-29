@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: eca3c278721a6b14c91bf9bbc36b25ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aimRig: {instanceID: 0}
+  - aimDownCamera: {instanceID: 0}
+  - cameraTarget: {instanceID: 0}
+  - bulletProjectile: {fileID: 7177356068593728561, guid: 252918a65ea1ad042a6b169fa93cc06a,
+      type: 3}
+  - shootPoint: {instanceID: 0}
+  - sound: {instanceID: 0}
+  - mouseWorldPosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
